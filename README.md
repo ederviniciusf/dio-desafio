@@ -1,5 +1,5 @@
 # dio-desafio
-Repositório para desafio DIO
+Repositório para exercicios do bootcamp Carrefur DIO
 
 ## Links Úteis:
 1. [Sintaxe markdown](https://www.markdownguide.org/basic-syntax/)
